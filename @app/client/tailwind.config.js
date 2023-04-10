@@ -1,0 +1,1 @@
+import "@demo/tailwind-config/tailwind.config.cjs"
